@@ -1,0 +1,23 @@
+Pearson Corr
+1	+0.397	V	:	fc
+2	+0.230	V	:	bd
+3	+0.182	V	:	cw
+4	+0.172	V	:	crr
+5	-0.162	V	:	blr
+6	+0.128	V	:	fy
+7	-0.111	V	:	bw
+8	+0.065	P	:	V
+9	+0.043	V	:	ch
+10	-0.037	V	:	e
+
+Spearman Correlation
+1	+0.265	V	:	fc
+2	+0.217	V	:	bd
+3	+0.170	P	:	V
+4	-0.102	V	:	blr
+5	-0.092	V	:	ch
+6	+0.089	V	:	cw
+7	+0.073	V	:	bw
+8	+0.043	V	:	crr
+9	-0.018	V	:	e
+10	-0.015	V	:	fy
