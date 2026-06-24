@@ -1,0 +1,1 @@
+Joint_Type	Specimen	ρcore (%) 	beam Long. RFT ratio %	e (mm)	N (kN)	hb (mm)	bb (mm)	hc (mm)	bc (mm)	fy (MPa)	fc (MPa)	joint shear strength (MPa)
