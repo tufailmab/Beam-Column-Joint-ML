@@ -1,0 +1,4 @@
+Model	MSE	RMSE	MAE	MAPE	R2
+Random Forest	4.996	2.235	1.436	24.636	0.099
+Gradient Boosting	2.816	1.678	0.943	13.962	0.992
+Stack	2.976	1.725	1.076	16.901	0.963
